@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arohi\\block shooter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{502D6F53-3778-0590-EBF3-8F18ED1B8FC2}|Assembly-CSharp.csproj|c:\\users\\arohi\\block shooter\\assets\\armagicbar\\resources\\scripts\\placementbar\\arplacementplanemesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502D6F53-3778-0590-EBF3-8F18ED1B8FC2}|Assembly-CSharp.csproj|solutionrelative:assets\\armagicbar\\resources\\scripts\\placementbar\\arplacementplanemesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\arohi\\block shooter\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502D6F53-3778-0590-EBF3-8F18ED1B8FC2}|Assembly-CSharp.csproj|C:\\Users\\arohi\\block shooter\\assets\\scripts\\shootballlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502D6F53-3778-0590-EBF3-8F18ED1B8FC2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shootballlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502D6F53-3778-0590-EBF3-8F18ED1B8FC2}|Assembly-CSharp.csproj|C:\\Users\\arohi\\block shooter\\assets\\scripts\\resetrbpositionofobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502D6F53-3778-0590-EBF3-8F18ED1B8FC2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resetrbpositionofobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502D6F53-3778-0590-EBF3-8F18ED1B8FC2}|Assembly-CSharp.csproj|C:\\Users\\arohi\\block shooter\\assets\\scripts\\hidebaronstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502D6F53-3778-0590-EBF3-8F18ED1B8FC2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hidebaronstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502D6F53-3778-0590-EBF3-8F18ED1B8FC2}|Assembly-CSharp.csproj|C:\\Users\\arohi\\block shooter\\assets\\scripts\\enablephysicsonevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502D6F53-3778-0590-EBF3-8F18ED1B8FC2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enablephysicsonevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502D6F53-3778-0590-EBF3-8F18ED1B8FC2}|Assembly-CSharp.csproj|C:\\Users\\arohi\\block shooter\\assets\\scripts\\uibuttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502D6F53-3778-0590-EBF3-8F18ED1B8FC2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uibuttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502D6F53-3778-0590-EBF3-8F18ED1B8FC2}|Assembly-CSharp.csproj|C:\\Users\\arohi\\block shooter\\assets\\armagicbar\\resources\\scripts\\debugging\\customlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502D6F53-3778-0590-EBF3-8F18ED1B8FC2}|Assembly-CSharp.csproj|solutionrelative:assets\\armagicbar\\resources\\scripts\\debugging\\customlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ARPlacementPlaneMesh.cs",
+              "DocumentMoniker": "C:\\Users\\arohi\\block shooter\\Assets\\ARMagicBar\\Resources\\Scripts\\PlacementBar\\ARPlacementPlaneMesh.cs",
+              "RelativeDocumentMoniker": "Assets\\ARMagicBar\\Resources\\Scripts\\PlacementBar\\ARPlacementPlaneMesh.cs",
+              "ToolTip": "C:\\Users\\arohi\\block shooter\\Assets\\ARMagicBar\\Resources\\Scripts\\PlacementBar\\ARPlacementPlaneMesh.cs",
+              "RelativeToolTip": "Assets\\ARMagicBar\\Resources\\Scripts\\PlacementBar\\ARPlacementPlaneMesh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:57:44.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\arohi\\block shooter\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\arohi\\block shooter\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:12:28.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShootBallLogic.cs",
+              "DocumentMoniker": "C:\\Users\\arohi\\block shooter\\Assets\\Scripts\\ShootBallLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShootBallLogic.cs",
+              "ToolTip": "C:\\Users\\arohi\\block shooter\\Assets\\Scripts\\ShootBallLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShootBallLogic.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:08:22.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HideBarOnStart.cs",
+              "DocumentMoniker": "C:\\Users\\arohi\\block shooter\\Assets\\Scripts\\HideBarOnStart.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HideBarOnStart.cs",
+              "ToolTip": "C:\\Users\\arohi\\block shooter\\Assets\\Scripts\\HideBarOnStart.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HideBarOnStart.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:25:12.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResetRbPositionOfObject.cs",
+              "DocumentMoniker": "C:\\Users\\arohi\\block shooter\\Assets\\Scripts\\ResetRbPositionOfObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ResetRbPositionOfObject.cs",
+              "ToolTip": "C:\\Users\\arohi\\block shooter\\Assets\\Scripts\\ResetRbPositionOfObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ResetRbPositionOfObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:18:46.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnablePhysicsOnEvent.cs",
+              "DocumentMoniker": "C:\\Users\\arohi\\block shooter\\Assets\\Scripts\\EnablePhysicsOnEvent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnablePhysicsOnEvent.cs",
+              "ToolTip": "C:\\Users\\arohi\\block shooter\\Assets\\Scripts\\EnablePhysicsOnEvent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnablePhysicsOnEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:01:10.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UIButtonHandler.cs",
+              "DocumentMoniker": "C:\\Users\\arohi\\block shooter\\Assets\\Scripts\\UIButtonHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIButtonHandler.cs",
+              "ToolTip": "C:\\Users\\arohi\\block shooter\\Assets\\Scripts\\UIButtonHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIButtonHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:22:21.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomLog.cs",
+              "DocumentMoniker": "C:\\Users\\arohi\\block shooter\\Assets\\ARMagicBar\\Resources\\Scripts\\Debugging\\CustomLog.cs",
+              "RelativeDocumentMoniker": "Assets\\ARMagicBar\\Resources\\Scripts\\Debugging\\CustomLog.cs",
+              "ToolTip": "C:\\Users\\arohi\\block shooter\\Assets\\ARMagicBar\\Resources\\Scripts\\Debugging\\CustomLog.cs",
+              "RelativeToolTip": "Assets\\ARMagicBar\\Resources\\Scripts\\Debugging\\CustomLog.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAEwBIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T05:10:09.841Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
